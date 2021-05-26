@@ -1,5 +1,6 @@
 form {
-    border: 2px solid white!important
+    border: 2px solid white!important;
+    border-radius:20px;
 }
 
 .form-ll {
